@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">lab13</string>
+
+    <string name="add">+</string>
+    <string name="subtract">–</string>
+    <string name="multiply">x</string>
+    <string name="divide">/</string>
+
+    <string name="power">^</string>
+    <string name="sqrt">√</string>
+    <string name="remainder">%</string>
+    <string name="intDivide">//</string>
+
+    <string name="sin">sin</string>
+    <string name="asin">asin</string>
+    <string name="cos">cos</string>
+    <string name="acos">acos</string>
+
+    <string name="tg">tg</string>
+    <string name="atg">atg</string>
+    <string name="equals">=</string>
+
+    <string name="forDegree">В градусы</string>
+
+    <string name="a">Первое число:</string>
+    <string name="b">Второе число:</string>
+    <string name="res">Результат:</string>
+
+</resources>
